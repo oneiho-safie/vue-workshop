@@ -8,16 +8,15 @@
 </template>
 
 <script>
-import NavbarHeader from '@/components/NavbarHeader'
+import NavbarHeader from "@/components/NavbarHeader";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     NavbarHeader
   }
-}
+};
 </script>
-
 
 <style lang="scss">
 body {
@@ -29,17 +28,17 @@ main {
 }
 
 .box {
-  box-shadow: 0 0 1px rgba(0,0,0,.15);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.15);
   background-color: #fff;
   position: relative;
   margin-bottom: 1.5rem;
 }
 
-.box-body, .box-footer {
+.box-body,
+.box-footer {
   padding: 1rem;
 }
 </style>
 
 <style lang="scss" src="@/assets/scss/util.border.scss"></style>
 <style lang="scss" src="@/assets/scss/util.spacing.scss"></style>
-
