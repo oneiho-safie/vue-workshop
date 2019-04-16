@@ -1,0 +1,103 @@
+$msize1: .25rem;
+$msize2: .5rem;
+$msize3: 1rem;
+
+.mb-1, .my-1 {
+  margin-bottom: $msize1 !important;
+}
+
+.mt-1, .my-1 {
+  margin-top: $msize1!important;
+}
+
+.ml-1, .mx-1 {
+  margin-left: $msize1!important;
+}
+
+.mr-1, .mx-1 {
+  margin-right: $msize1!important;
+}
+
+
+.mb-2, .my-2 {
+  margin-bottom: $msize2 !important;
+}
+
+.mt-2, .my-2 {
+  margin-top: $msize2!important;
+}
+
+.ml-2, .mx-2 {
+  margin-left: $msize2!important;
+}
+
+.mr-2, .mx-2 {
+  margin-right: $msize2!important;
+}
+
+.mb-3, .my-3 {
+  margin-bottom: $msize3 !important;
+}
+
+.mt-3, .my-3 {
+  margin-top: $msize3!important;
+}
+
+.ml-3, .mx-3 {
+  margin-left: $msize3!important;
+}
+
+.mr-3, .mx-3 {
+  margin-right: $msize3!important;
+}
+
+
+
+.pb-1, .py-1 {
+  padding-bottom: $msize1 !important;
+}
+
+.pt-1, .py-1 {
+  padding-top: $msize1!important;
+}
+
+.pl-1, .px-1 {
+  padding-left: $msize1!important;
+}
+
+.pr-1, .px-1 {
+  padding-right: $msize1!important;
+}
+
+
+.pb-2, .py-2 {
+  padding-bottom: $msize2 !important;
+}
+
+.pt-2, .py-2 {
+  padding-top: $msize2!important;
+}
+
+.pl-2, .px-2 {
+  padding-left: $msize2!important;
+}
+
+.pr-2, .px-2 {
+  padding-right: $msize2!important;
+}
+
+.pb-3, .py-3 {
+  padding-bottom: $msize3 !important;
+}
+
+.pt-3, .py-3 {
+  padding-top: $msize3!important;
+}
+
+.pl-3, .px-3 {
+  padding-left: $msize3!important;
+}
+
+.pr-3, .px-3 {
+  padding-right: $msize3!important;
+}
